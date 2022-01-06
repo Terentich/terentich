@@ -5,7 +5,7 @@ My name is Aleksei Terentev and I am a software engineer with more than 13+ year
 In recent years working with Big Data technologies. 
 
 More information you can find here:
-https://www.linkedin.com/in/aleksei-terentev/
+<https://www.linkedin.com/in/aleksei-terentev/>
 
 My personal email:
-terentich@gmail.com
+<terentich@gmail.com>
